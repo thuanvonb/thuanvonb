@@ -3,7 +3,7 @@
 # About me
 - I'm Thuan Vo, my full name in Vietnamese is Võ Viết Thuận.
 - I'm interested in Machine Learning and Software Engineering.
-- I'm a second-year student in University of Information and Technology - Vietnam National University - Ho Chi Minh City
+- I'm a third-year student in University of Information and Technology - Vietnam National University - Ho Chi Minh City
 
 # Experiences
 - I've been working on Computer Vision, Reinforcement Learning and Software Engineering.
