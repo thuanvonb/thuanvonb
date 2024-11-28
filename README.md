@@ -2,12 +2,12 @@
 
 # About me
 - I'm Thuan Vo, my full name in Vietnamese is Võ Viết Thuận.
-- I'm interested in Machine Learning and Software Engineering.
-- I'm a third-year student in University of Information and Technology - Vietnam National University - Ho Chi Minh City
+- I'm interested in Machine Learning and Cybersecurity.
+- I'm a final-year student in University of Information and Technology - Vietnam National University - Ho Chi Minh City
 
 # Experiences
-- I've been working on Computer Vision, Reinforcement Learning and Software Engineering.
-- I'm currently learning Game Development and Artificial Intelligence in Games.
+- I've been working on Machine Learning projects, and having a decent understanding of Cybersecurity concepts.
+- I'm a CTF Player. My strongest CTF categories are Crypto, Forensics and Reversing. I'm also trying on Web and Binary Exploitation.
 
 # Contacts
 - You can reach me at this email: thuanvoviet314@gmail.com
